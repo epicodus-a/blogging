@@ -1,0 +1,25 @@
+body {
+  background-image: url(background.jpg)
+}
+
+.intro {
+  font-style: italic;
+  font-weight: bold;
+  color: blue;
+}
+
+.title{
+  font-style: normal;
+  color: black;
+}
+
+.about{
+  font-style: oblique;
+  margin-left:10%;
+  margin-right: 10%;
+
+}
+
+.italics{
+  font-weight: bold;
+}
