@@ -1,6 +1,13 @@
-body {
-  background-image: url(background.jpg)
+.blue-background{
+  background-image: url(background.jpg);
 }
+
+.pink-background{
+  background-image: url(../img/backgroundinv.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 
 .intro {
   font-style: italic;
